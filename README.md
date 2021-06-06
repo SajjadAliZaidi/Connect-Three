@@ -31,4 +31,4 @@ This app is part of course exercise. Course Link: https://www.udemy.com/complete
 ![alt text](https://github.com/SajjadAliZaidi/Connect-Three/blob/master/screenshots/tic_tac_toe_1.jpg?raw=true)
 
 ### 2. Yellow player won
-![alt text](https://github.com/SajjadAliZaidi/Connect-Three/blob/master/screenshots/tic_tac_toe_1.jpg?raw=true)
+![alt text](https://github.com/SajjadAliZaidi/Connect-Three/blob/master/screenshots/tic_tac_toe_2.jpg?raw=true)
